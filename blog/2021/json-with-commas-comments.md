@@ -239,7 +239,7 @@ other tools that only speak the latter:
 
 In a case of parallel evolution, [Tailscale](https://tailscale.com/) already
 have a Go implementation of this format. They call it
-[HuJSON](https://github.com/tailscale/hujson) - Human JSON.
+[HuJSON](https://github.com/tailscale/hujson) - Human JSON (which is not the same as [hjson](https://hjson.github.io/)).
 
 
 ---
